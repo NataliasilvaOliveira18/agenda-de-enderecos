@@ -2,12 +2,12 @@
 
 Projeto de Desenvolvimento de Aplicações Móveis da PUC Minas Betim. A agenda permite cadastrar locais por apelido, consultar o CEP pela BrasilAPI e manter os endereços no aparelho.
 
-**Link para a entrega:** https://github.com/NataliasilvaOliveira18/agenda-de-enderecos
+**Link da entrega:** https://github.com/NataliasilvaOliveira18/agenda-de-enderecos
 
 ## Abrir no Samsung com Expo Go
 
 1. No computador, instale o Node.js 24 LTS com npm. No celular Android, instale o Expo Go compatível com o SDK 58.
-2. Extraia o ZIP. No VS Code, escolha **Arquivo → Abrir Pasta** e selecione a pasta `agenda`, que contém `App.js` e `package.json`.
+2. Extraia o ZIP. No VS Code, escolha **Arquivo - Abrir Pasta** e selecione a pasta `agenda`, que contém `App.js` e `package.json`.
 3. Abra **Terminal → Novo Terminal** e execute, um comando por vez:
 
    ```sh
