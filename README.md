@@ -8,7 +8,7 @@ Projeto de Desenvolvimento de Aplicações Móveis da PUC Minas Betim. A agenda 
 
 1. No computador, instale o Node.js 24 LTS com npm. No celular Android, instale o Expo Go compatível com o SDK 58.
 2. Extraia o ZIP. No VS Code, escolha **Arquivo - Abrir Pasta** e selecione a pasta `agenda-de-enderecos-main`, que contém os arquivos `App.js`, `app.json`, `index.js` e `package.json`.
-3. Abra **Terminal → Novo Terminal** e execute, um comando por vez:
+3. Abra **Terminal - Novo Terminal** e execute, um comando por vez:
 
    ```sh
    npm ci
